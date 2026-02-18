@@ -2,7 +2,6 @@
 
 ## Topics Covered
 - Functions in Python
-- Arguments and Return values
 - Dictionaries
 - Dictionary methods
 

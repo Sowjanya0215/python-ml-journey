@@ -1,4 +1,3 @@
-file_handling_practice.py
-exception_handling_practice.py
-student_file_report.py
-marks.txt
+- Learned file handling
+- Practiced exception handling
+- Built file-based student report system

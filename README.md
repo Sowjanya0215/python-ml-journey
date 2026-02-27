@@ -1,21 +1,86 @@
 # AI/ML Developer Journey
+AI/ML Developer Journey
 
-This repository documents my structured journey to becoming an AI/ML Developer.
+This repository documents my complete journey to becoming an AI/ML Developer.
+It includes daily practice, mini projects, real datasets, machine learning models, and deployment work.
 
-I am learning step-by-step, building projects, and pushing daily progress.
+The goal of this repository is to build strong fundamentals, implement ML models from scratch, and create real-world projects.
 
----
+📅 Learning Roadmap
+🟢 Phase 1: Python Foundations
 
-## 📅 Day 1
-- Learned Python basics
-- Practiced conditional statements and loops
-- Built Student Marks Analyzer mini project
+Python Basics (variables, loops, conditions)
 
----
+Functions
 
-## 🔧 Tech Stack (Learning Phase)
-- Python
-- NumPy (Upcoming)
-- Pandas (Upcoming)
-- Scikit-learn (Upcoming)
-- XGBoost (Upcoming)
+Dictionaries
+
+File Handling
+
+Exception Handling
+
+OOP Concepts
+
+Mini Projects:
+
+Student Marks Analyzer
+
+Student Record Manager
+
+File-Based Student Report System
+
+OOP Student Management System
+
+🟡 Phase 2: Data Science Fundamentals
+
+NumPy (arrays, matrix operations)
+
+Pandas (CSV handling, data cleaning)
+
+Data Analysis
+
+Feature Engineering
+
+Data Preprocessing
+
+Mini Projects:
+
+Student Marks Analysis using NumPy
+
+CSV Data Analysis using Pandas
+
+Dataset Cleaning Project
+
+Exploratory Data Analysis (EDA)
+
+🔵 Phase 3: Machine Learning
+
+Linear Regression (from scratch + sklearn)
+
+Logistic Regression
+
+Decision Trees
+
+Random Forest
+
+KNN
+
+SVM
+
+Naive Bayes
+
+Model Evaluation Metrics
+
+Cross Validation
+
+Hyperparameter Tuning
+
+Projects:
+
+House Price Prediction
+
+Loan Approval Prediction
+
+Spam Detection
+
+Model Comparison Project
